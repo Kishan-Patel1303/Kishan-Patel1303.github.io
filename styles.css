@@ -7,7 +7,7 @@ body{
     padding:10px;
     margin:10px;
     background: grey;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .assignment img{
@@ -21,7 +21,7 @@ body{
 }
 
 h1 {
-    color: whitesmoke;
+    color: black;
     text-align:center;
 }
 
