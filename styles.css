@@ -1,12 +1,12 @@
 body{
-    background: gray;
+    background: lightgrey;
     font-family:Arial, Arial, Helvetica, sans-serif;
 }
 
 .assignment{
     padding:10px;
     margin:10px;
-    background: lightgrey;
+    background: grey;
     border-radius: 5px;
 }
 
