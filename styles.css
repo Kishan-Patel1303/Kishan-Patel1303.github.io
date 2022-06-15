@@ -17,7 +17,7 @@ body{
 }
 
 .assignment img:hover {
-    border:4px dashed darkgreen;
+    border:4px dashed grey;
 }
 
 h1 {
