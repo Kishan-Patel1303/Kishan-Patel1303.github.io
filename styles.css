@@ -10,6 +10,12 @@ body{
     border-radius: 20px;
 }
 
+.assignment {
+  float: left;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px; /* if you want space between the images */
+}
+
 .assignment img{
     width:200px;
     margin:10px;
