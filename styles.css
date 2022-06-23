@@ -13,7 +13,7 @@ body{
 .assignment {
   float: left;
   width: 16.66%; /* three boxes (use 25% for four, and 50% for two, etc) */
-  padding: 50px; /* if you want space between the images */
+  padding: 100px; /* if you want space between the images */
 }
 
 .assignment img{
